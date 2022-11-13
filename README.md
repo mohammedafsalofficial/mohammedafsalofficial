@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on blog website.<br>I'm currently learning about databases.<br>Ask me about web development.<br>Fun fact : Once I coded in mobile.
+I'm currently working on Portfolio website.<br>I'm currently learning about databases.<br>Ask me about web development.<br>Fun fact : Once I coded in mobile.
 
 
 ## 🌐 Socials:
