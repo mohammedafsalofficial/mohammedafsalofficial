@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mohammed Afsal</h1>
+<h1 align="center">Mohammed Afsal</h1>
 <h3 align="center">I love coding</h3>
 
 <p align="left"> <a href="https://twitter.com/moafsaloffcl" target="blank"><img src="https://img.shields.io/twitter/follow/moafsaloffcl?logo=twitter&style=for-the-badge" alt="moafsaloffcl" /></a> </p>
 
-- 🔭 I’m currently working on **Blog website**
+- 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Databases**
+- 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Bootstrap, Javascript, JQuery, Node.js, Express.js**
+- 💬 Ask me about **Tailwind CSS, Java, Javascript, Node.js, Express.js**
 
 - 📫 How to reach me **mohammedafsaltut@gmail.com**
 
