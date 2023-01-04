@@ -1,5 +1,5 @@
 <h1 align="center">Mohammed Afsal</h1>
-<h3 align="center">I love coding</h3>
+<h3 align="center">A passionate full-stack learner</h3>
 
 <p align="left"> <a href="https://twitter.com/moafsaloffcl" target="blank"><img src="https://img.shields.io/twitter/follow/moafsaloffcl?logo=twitter&style=for-the-badge" alt="moafsaloffcl" /></a> </p>
 
